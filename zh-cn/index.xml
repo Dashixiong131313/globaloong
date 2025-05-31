@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <atom:link href="https://dashixiong131313.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数字货币</title>
+      <link>https://dashixiong131313.github.io/zh-cn/crypto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dashixiong131313.github.io/zh-cn/crypto/</guid>
+      <description>&lt;p&gt;这里是数字货币内容。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
