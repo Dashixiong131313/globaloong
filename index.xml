@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>首页 on 全球头条</title>
+    <title>首页 on 全球华人新闻资讯</title>
     <link>https://globaloong.com/</link>
-    <description>Recent content in 首页 on 全球头条</description>
+    <description>Recent content in 首页 on 全球华人新闻资讯</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 May 2025 02:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://globaloong.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>联系我们</title>
+      <link>https://globaloong.com/contact/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://globaloong.com/contact/</guid>
+      <description>&lt;p&gt;如果您有任何问题或合作意向，欢迎通过以下方式联系我们：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: &lt;a href=&#34;mailto:xintukeji@gmail.com&#34; &gt;xintukeji@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>第一篇财经文章</title>
       <link>https://globaloong.com/posts/finance/</link>
@@ -35,6 +42,27 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://globaloong.com/posts/hello/</guid>
       <description>&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>全球华人</title>
+      <link>https://globaloong.com/zh-cn/chinese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://globaloong.com/zh-cn/chinese/</guid>
+      <description>&lt;p&gt;这里是全球华人内容。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>全球热点</title>
+      <link>https://globaloong.com/zh-cn/hot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://globaloong.com/zh-cn/hot/</guid>
+      <description>&lt;p&gt;这里是全球热点内容。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>数字货币</title>
+      <link>https://globaloong.com/zh-cn/crypto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://globaloong.com/zh-cn/crypto/</guid>
+      <description>&lt;p&gt;这里是数字货币内容。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
